@@ -1,0 +1,20 @@
+{
+  "name": "docfila",
+  "version": "1.5.0",
+  "description": "Your DocFila library and apps in Claude: search, read, draft, revise and organise documents; convert files and edit PDFs; edit videos with VynCut; Studio images; workspace notes and Planner; polls, TimeDeck timers, forms, bookings, quotes, share links and e-signature.",
+  "author": {
+    "name": "NotaNovice UG",
+    "url": "https://www.docfila.com"
+  },
+  "homepage": "https://www.docfila.com/claude",
+  "repository": "https://github.com/NotaNovice-Group/docfila-claude",
+  "keywords": [
+    "documents",
+    "pdf",
+    "word",
+    "excel",
+    "contracts",
+    "invoices",
+    "docfila"
+  ]
+}

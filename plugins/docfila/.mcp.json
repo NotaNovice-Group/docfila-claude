@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "docfila": {
+      "type": "http",
+      "url": "https://api.docfila.com/claude/mcp"
+    }
+  }
+}
