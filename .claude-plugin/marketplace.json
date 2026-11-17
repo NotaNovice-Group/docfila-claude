@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Official DocFila plugins for Claude Code",
-    "version": "1.5.0"
+    "version": "1.6.0"
   },
   "plugins": [
     {
       "name": "docfila",
       "source": "./plugins/docfila",
-      "description": "Your DocFila library and apps in Claude: search, read, draft, revise and organise documents; convert files and edit PDFs; edit videos with VynCut; Studio images; workspace notes and Planner; polls, TimeDeck timers, forms, bookings, quotes, share links and e-signature.",
-      "version": "1.5.0",
+      "description": "Your DocFila library and apps in Claude: search, read, draft, revise and organise documents; convert files and edit PDFs; edit videos with VynCut; workspace notes and Planner; polls, TimeDeck timers, forms, bookings, quotes, share links and e-signature.",
+      "version": "1.6.0",
       "category": "productivity",
       "keywords": ["documents", "pdf", "word", "excel", "contracts", "invoices", "docfila"],
       "homepage": "https://www.docfila.com/claude"

@@ -4,7 +4,7 @@ Work with your [DocFila](https://www.docfila.com) library and apps from Claude
 Code: answer questions from your own contracts, invoices and reports; draft
 Word, Excel or PDF files straight into DocFila; revise documents with the
 original kept in version history; convert files and edit PDFs; cut videos with
-VynCut; make Studio images; and run polls, TimeDeck timers, forms, bookings,
+VynCut; and run polls, TimeDeck timers, forms, bookings,
 quotes, share links and e-signature requests.
 
 ## Install
@@ -33,7 +33,7 @@ claude mcp add --transport http docfila https://api.docfila.com/claude/mcp \
 | Area | Tools |
 |---|---|
 | Library | `search_documents`, `find_documents_by_details`, `list_documents`, `get_document`, `read_document`, `list_folders`, `get_account`, `create_document`, `edit_document`, `create_folder`, `move_documents`, `rename_document`, `get_download_link` |
-| Files and media | `convert_document`, `images_to_pdf`, `remove_background`, `split_pdf`, `merge_pdfs`, `stamp_pdf`, `fill_pdf_form`, `get_pdf_job`, `edit_video`, `generate_image` |
+| Files and media | `convert_document`, `images_to_pdf`, `remove_background`, `split_pdf`, `merge_pdfs`, `stamp_pdf`, `fill_pdf_form`, `get_pdf_job`, `edit_video` |
 | Apps | `list_workspaces`, `get_workspace`, `add_workspace_note`, `add_planner_card`, `update_planner_card`, `request_approval`, `decide_approval`, `create_poll`, `list_polls`, `get_poll_results`, `close_poll`, `create_timer`, `control_timer`, `list_forms`, `get_form_responses`, `get_schedule`, `create_quote`, `list_quotes`, `convert_quote_to_invoice` |
 | Share and send | `create_share_link`, `revoke_share_link`, `add_document_to_workspace`, `remove_document_from_workspace`, `set_form_status`, `send_quote_for_approval`, `request_signature`, `get_signature_status` |
 
@@ -45,7 +45,7 @@ claude mcp add --transport http docfila https://api.docfila.com/claude/mcp \
 | `docfila-drafting` | Writing new docx / xlsx / pdf files into DocFila |
 | `docfila-editing` | Safe edits saved as new versions |
 | `docfila-paperwork` | Multi-document jobs: extraction to Excel, contract review, comparisons, deadlines |
-| `docfila-files-and-media` | Conversions, PDF tools, background removal, Studio images, VynCut video edits |
+| `docfila-files-and-media` | Conversions, PDF tools, background removal, VynCut video edits |
 | `docfila-apps` | Workspaces (notes, Planner, meetings), Polls, TimeDeck, Forms, Schedule, quotes, share links and e-signature |
 
 **Commands**

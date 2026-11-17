@@ -37,11 +37,6 @@ link) or report the error.
 - `remove_background`: product photos, portraits, logos → PNG with a
   transparent (default) or `#RRGGBB` background; `quality: "best"` for hair and
   fine edges.
-- `generate_image`: write a specific visual brief (subject, style, colours,
-  composition, text to include) and pick `aspectRatio` for the destination
-  (1:1 social, 9:16 story, 16:9 slide, 4:5 feed). It uses the account's AI
-  credits — say so the first time. To change one, generate again with a
-  revised brief.
 
 ## Video — `edit_video` (VynCut)
 
